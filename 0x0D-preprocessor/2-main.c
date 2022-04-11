@@ -1,10 +1,10 @@
 #include <stdio.h>
-#include <stdlib.h>
+
 /**
- * main.c - prints the name of the file it was
- *	compiled from, followed by a new line.
+ * main - Prints the name of the file of the program
+ *        was compiled from, followed by a new line.
  *
- *Return: Always 0.
+ * Return: Always 0.
  */
 int main(void)
 {
